@@ -96,3 +96,6 @@ h1 {
   text-decoration: none;
   color: white;
 }
+.profile-wrapper a:hover li {
+  background-color: rgb(69, 70, 70);
+}
